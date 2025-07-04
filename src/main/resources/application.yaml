@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: spring-ai-openrouter-integration
+  ai:
+    openai:
+      api-key: ${OPENROUTER_API_KEY}
+      # This is the crucial part: we override the base URL to point to OpenRouter.
+      base-url: https://openrouter.ai/api
+      chat:
+        options:
+          # Here we specify the model from the OpenRouter website.
+          model: openrouter/cypher-alpha:free
