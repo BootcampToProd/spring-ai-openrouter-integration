@@ -6,7 +6,7 @@ This repository demonstrates how to integrate **OpenRouter** with **Spring AI**,
 👉 [Integrate OpenRouter with Spring AI: Switch Between 400+ AI Models with Zero Code Changes](https://bootcamptoprod.com/integrate-openrouter-with-spring-ai/)
 
 🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
-👉 YouTube Tutorial - Coming Soon
+👉 YouTube Tutorial - [OpenRouter + Spring AI: Access 400+ AI Models with One API](https://youtu.be/otZ1TjxL9HI)
 
 ---
 
